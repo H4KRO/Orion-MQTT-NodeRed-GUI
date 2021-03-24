@@ -1,0 +1,3 @@
+[submodule "fiware-orion-explorer"]
+	path = fiware-orion-explorer
+	url = https://github.com/VM9/fiware-orion-explorer.git
